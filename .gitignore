@@ -1,0 +1,72 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Entity Framework Core
+*.db
+*.db-shm
+*.db-wal
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Rider
+.idea/
+*.sln.iml
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.local
+launchSettings.json
+
+# IDE
+.idea/
+*.code-workspace
+
+# Application logs
+logs/
+*.log
+
+# User-specific files (avoid committing local config)
+appsettings.Development.json
+
+# Data files generated during runtime
+duplicates.csv
+*.csv
+
+# Temporary files
+temp/
+tmp/
